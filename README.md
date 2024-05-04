@@ -34,4 +34,13 @@ The folowing are Power SQL features were incorporated:
 1. Overview
 2. Temperature
 3. Pressure
-The following are the  
+The following are the
+###Overview: 
+![](Dashboard1.PNG)
+
+### Temperature:
+![](Dashoard2.PNG)
+
+### Pressure:
+![](Dashboard3.JPG)
+
