@@ -17,6 +17,13 @@ Weather prediction is crucial information needed everywhere. It includes gatheri
 8. Find the number of days when the temperature went below 0 degrees Celsius.
 9. Create another table with a “Foreign key” relation with the existing given data set.
 
+## Data Cleaning Tasks
+Each of the following data cleaning tasks were carried out on the data using SQL:
+-Task 1: Correct years for given data set
+-Task 2: removal of duplicate rows and duplicate columns
+-Task 3: fix a few labels in the given data set
+-Task 4: encoding data into suitable format
+
 ## Skills/ Concept Demostrated
 The folowing are Power BI features were incorporated:
 - DAX
@@ -35,7 +42,7 @@ The folowing are Power SQL features were incorporated:
 2. Temperature
 3. Pressure
 The following are the
-###Overview: 
+### Overview: 
 ![](Dashboard1.PNG)
 
 ### Temperature:
@@ -44,3 +51,7 @@ The following are the
 ### Pressure:
 ![](Dashboard3.JPG)
 
+## Solutions
+View the Data Cleaning scripts: [Here](Data Cleaning Script.sql)
+View the clean dataset: [Here](Clean Date.csv)
+View the Solution scripts: [Here](Solution Script.sql)
