@@ -52,6 +52,6 @@ The following are the
 ![](Dashboard3.JPG)
 
 ## Solutions
-View the Data Cleaning scripts: [Here](Data Cleaning Script.sql)
+View the Data Cleaning scripts: [Here](https://github.com/idlawal/Weather-Forecasting-Analysis-and-Visualization/blob/main/Clean%20Date.csv)
 View the clean dataset: [Here](Clean Date.csv)
 View the Solution scripts: [Here](Solution Script.sql)
