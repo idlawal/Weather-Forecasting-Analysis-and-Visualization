@@ -53,5 +53,7 @@ The following are the
 
 ## Solutions
 View the Data Cleaning scripts: [Here](https://github.com/idlawal/Weather-Forecasting-Analysis-and-Visualization/blob/main/Clean%20Date.csv)
-View the clean dataset: [Here](Clean Date.csv)
-View the Solution scripts: [Here](Solution Script.sql)
+
+View the clean dataset: [Here](https://github.com/idlawal/Weather-Forecasting-Analysis-and-Visualization/blob/main/Data%20Cleaning%20Script.sql)
+
+View the Solution scripts: [Here](https://github.com/idlawal/Weather-Forecasting-Analysis-and-Visualization/blob/main/Solution%20Script.sql)
